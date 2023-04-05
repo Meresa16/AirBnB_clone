@@ -73,4 +73,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Kyle Litscher** - [klitscher](https://github.com/klitscher)
+* **Meresa Gidey** - [klitscher](https://github.com/meresa16)
