@@ -21,4 +21,4 @@ What you should learn from this project:
 
 
 ## Author
-* **Meresa Gidey** - [klitscher](https://github.com/meresa16)
+* **Meresa Gidey** - [Meresa](https://github.com/meresa16)
